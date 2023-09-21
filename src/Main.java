@@ -7,7 +7,7 @@ public class Main {
 
         Gryffindor garryPotter = new Gryffindor("Garry Potter", 95, 80, 88, 99, 90);
         Gryffindor hermioneGranger = new Gryffindor("Hermione Granger", 90, 95, 93, 99, 88);
-        Gryffindor ronWeasley = new Gryffindor("Ron Weasley", 70, 75, 79, 85, 90);
+        Gryffindor ronWeasley  = new Gryffindor("Ron Weasley", 70, 75, 79, 85, 90);
         Slytherin dracoMalfoy = new Slytherin("Draco Malfoy", 100, 90, 80, 70, 89, 56, 67);
         Slytherin grahamMontego = new Slytherin("Graham Montego", 50,60,70,80,90,50,50);
         Slytherin gragoryGoyl = new Slytherin("Gragory Goyl", 60,70,70,70,70,70,70);
