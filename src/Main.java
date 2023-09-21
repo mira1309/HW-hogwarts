@@ -15,7 +15,7 @@ public class Main {
         Hufflepuff sedrikDiggory = new Hufflepuff("Sedrik Diggory", 70,80,70,80,70);
         Hufflepuff jastinFinchFletchly = new Hufflepuff("Justin Finch Fletchly", 60,90,60,60,60);
         Ravenclaw joChang = new Ravenclaw("Jo Chang", 70,50,80,90,69, 99);
-        Ravenclaw padmaPatil = new Ravenclaw("Padma Patil", 80,80,80,80,80,90);
+        Ravenclaw padmaPatil  = new Ravenclaw("Padma Patil", 80,80,80,80,80,90);
         Ravenclaw marcusBelby = new Ravenclaw("Marcus Belby", 70,90,99,80,88,77);
 
 
